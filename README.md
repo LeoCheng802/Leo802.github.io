@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +47,6 @@
         #觀音蓮花塔　#鑽石金條塔<br/>
         專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️</h5>
     <hr size="3"color='#000000'>
-
     <p style="text-align:center"><B>🦁️開幕囍獅🦁️<br/>LED大字幕</B></p>
         <img
             src="https://github.com/LeoCheng802/Leo802.github.io/blob/main/assets/images/開幕囍獅.jpg"
@@ -141,4 +139,4 @@
     <a href="">選單</a>
 </nav>
 </body>
-</html>"# Leo802.github.io" 
+</html>
