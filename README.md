@@ -27,7 +27,7 @@
         騰揚開發會場佈置</h1>
     <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/>黃　先　生</h2>
     <h2.1>
-    ![image](https://github.com/Leo1422278/Leo802.github.io/blob/main/%E5%90%8D%E7%89%87.gif)
+![image](https://github.com/Leo1422278/Leo802.github.io/blob/main/名片.gif)
         <img
             src="test\名片.jpg"
             Hspace="700"
